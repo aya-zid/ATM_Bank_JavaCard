@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/JCDK/java_card_kit-2_2_2-windows/java_card_kit-2_2_2/lib/apdutool.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/JCDK/java_card_kit-2_2_2-windows/java_card_kit-2_2_2/lib/api.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/JCDK/java_card_kit-2_2_2-windows/java_card_kit-2_2_2/lib/capdump.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/JCDK/java_card_kit-2_2_2-windows/java_card_kit-2_2_2/lib/converter.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/JCDK/java_card_kit-2_2_2-windows/java_card_kit-2_2_2/lib/installer.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/JCDK/java_card_kit-2_2_2-windows/java_card_kit-2_2_2/lib/javacardframework.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/JCDK/java_card_kit-2_2_2-windows/java_card_kit-2_2_2/lib/jcclientsamples.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/JCDK/java_card_kit-2_2_2-windows/java_card_kit-2_2_2/lib/jcrmiclientframework.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/JCDK/java_card_kit-2_2_2-windows/java_card_kit-2_2_2/lib/offcardverifier.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/JCDK/java_card_kit-2_2_2-windows/java_card_kit-2_2_2/lib/scriptgen.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/JCDK/java_card_kit-2_2_2-windows/java_card_kit-2_2_2/lib/apduio.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
